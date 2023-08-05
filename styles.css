@@ -1,2 +1,38 @@
-
-/* Your CSS Code here. */
+*{
+background-color:lightcoral;
+}
+.body{
+	display:grid;
+	grid-template-rows:500px repeat(4,10fr);
+	gap:10px;
+}
+.text1{
+/* 	width:100px;
+	height:200px; */
+	background-color:blue;
+}
+.text2{
+/* 	width:100px;
+	height:200px; */
+	background-color:green;
+}
+.text3{
+/* 	width:100px;
+	height:200px; */
+	background-color:orange;
+}
+.text4{
+/* 	width:100px;
+	height:200px; */
+	background-color:crimson;
+}
+.text5{
+/* 	width:100px;
+	height:200px; */
+	background-color:black;
+}
+.text1{
+/* 	width:100px;
+	height:200px; */
+	background-color:blue;
+}
